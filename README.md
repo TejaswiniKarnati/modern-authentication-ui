@@ -159,8 +159,9 @@ While building this project, I gained hands-on experience with:
 
 **Tejaswini Karnati**
 
-- GitHub: https://github.com/TejaswiniKarnati
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+🌐 **GitHub:** https://github.com/TejaswiniKarnati
+
+💼 **LinkedIn:** https://www.linkedin.com/in/tejaswini-karnati-07680a25b/
 
 ---
 
